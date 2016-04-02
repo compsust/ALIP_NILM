@@ -1,5 +1,5 @@
 # ALIP_NILM
-Aided Linear Integer Programming (ALIP) for Non-Intrusive Load Monitoring (NILM)
+Aided Linear Integer Programming (ALIP) Non-Intrusive Load Monitoring (NILM)
 
 Copyright (C) 2016 by Md Zulfiquar Ali Bhotto.
 
